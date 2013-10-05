@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Mickey's Blog</title>
+    <description>Mickey's Blog</description>
+    <link>http://sample.com</link>
+    <pubDate>2013-10-05</pubDate>
+  </channel>
+</rss>
