@@ -20,6 +20,7 @@ base_path: "/"
 
 # Tell ruhoh which folder will model the "theme"
 twitter :
+#"theme-bootstrap" :
   # Tells ruhoh which collection class to use for this folder.
   # Here we use "theme" which makes this folder the theme.
   use : "theme"
